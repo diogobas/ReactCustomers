@@ -25,7 +25,7 @@ var GridApp = React.createClass({
           ContactName: 'Antonio Moreno',
           ContactTitle: 'Owner',
           CompanyName: 'Antonio Moreno Taquería',
-          Country: 'Mexico'
+          Country: 'Brazil'
         },
         {
           CustomerID: 4,
